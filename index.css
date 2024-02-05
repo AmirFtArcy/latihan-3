@@ -1,0 +1,52 @@
+.logo{
+
+    width: 220px;
+    height: auto;
+}
+.logos >img{
+    width: 30px;
+    height: auto;
+}
+.text > h3{
+    font-size:20px;;
+    margin-bottom: 4px;
+}
+.text>p{
+    font-size: 15px;
+    margin-bottom: 4px;
+}
+.navcustom{
+    background-image: url(images/bg-menu.jpg);
+    
+}
+li.active{
+    background-image: url(images/bg-menu-hover.png);
+}
+.judul{
+    color: #153870;
+}
+
+.news>.tit{
+    color: #6294C0;
+}
+.news>.des{
+    color: #877E85;
+}
+.foter{
+    background-color: #0F3065;
+
+}
+.apa{
+    color: #877E85;
+}
+.KER{
+    height: 200px;
+    width: auto;
+}
+.back{
+    background-color: #0F3065;
+    height: 580px;
+}
+.inpo{
+    border:5px ;
+}
